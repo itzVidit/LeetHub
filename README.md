@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itzVidit/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/itzVidit/LeetHub/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
