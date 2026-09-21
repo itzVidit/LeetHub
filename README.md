@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/itzVidit/LeetHub/tree/master/0185-department-top-three-salaries) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/itzVidit/LeetHub/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
