@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itzVidit/LeetHub/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/itzVidit/LeetHub/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/itzVidit/LeetHub/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/itzVidit/LeetHub/tree/master/0055-jump-game) |
 ## Hash Table
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itzVidit/LeetHub/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/itzVidit/LeetHub/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/itzVidit/LeetHub/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
