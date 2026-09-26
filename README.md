@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/itzVidit/LeetHub/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itzVidit/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/itzVidit/LeetHub/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/itzVidit/LeetHub/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/itzVidit/LeetHub/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/itzVidit/LeetHub/tree/master/0067-add-binary) |
 ## Tree
 |  |
 | ------- |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itzVidit/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/itzVidit/LeetHub/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/itzVidit/LeetHub/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
