@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/itzVidit/LeetHub/tree/master/0185-department-top-three-salaries) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/itzVidit/LeetHub/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/itzVidit/LeetHub/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1084-sales-analysis-iii](https://github.com/itzVidit/LeetHub/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/itzVidit/LeetHub/tree/master/1179-reformat-department-table) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/itzVidit/LeetHub/tree/master/1327-list-the-products-ordered-in-a-period) |
