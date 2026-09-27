@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-SELECT DISTINCT p.product_id , p.product_name
+SELECT  p.product_id , p.product_name
 FROM Product as p
 JOIN Sales as s
 ON p.product_id = s.product_id
