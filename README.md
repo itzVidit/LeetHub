@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/itzVidit/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/itzVidit/LeetHub/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/itzVidit/LeetHub/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/itzVidit/LeetHub/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/itzVidit/LeetHub/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/itzVidit/LeetHub/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/itzVidit/LeetHub/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/itzVidit/LeetHub/tree/master/0067-add-binary) |
 ## Tree
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/itzVidit/LeetHub/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/itzVidit/LeetHub/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
