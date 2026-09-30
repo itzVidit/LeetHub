@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/itzVidit/LeetHub/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/itzVidit/LeetHub/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/itzVidit/LeetHub/tree/master/0055-jump-game) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/itzVidit/LeetHub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/itzVidit/LeetHub/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/itzVidit/LeetHub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
