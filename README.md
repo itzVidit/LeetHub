@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/itzVidit/LeetHub/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/itzVidit/LeetHub/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/itzVidit/LeetHub/tree/master/1084-sales-analysis-iii) |
+| [1158-market-analysis-i](https://github.com/itzVidit/LeetHub/tree/master/1158-market-analysis-i) |
 | [1179-reformat-department-table](https://github.com/itzVidit/LeetHub/tree/master/1179-reformat-department-table) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/itzVidit/LeetHub/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/itzVidit/LeetHub/tree/master/1341-movie-rating) |
