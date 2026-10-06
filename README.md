@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/itzVidit/LeetHub/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/itzVidit/LeetHub/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itzVidit/LeetHub/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/itzVidit/LeetHub/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/itzVidit/LeetHub/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itzVidit/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/itzVidit/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/itzVidit/LeetHub/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/itzVidit/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/itzVidit/LeetHub/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/itzVidit/LeetHub/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
